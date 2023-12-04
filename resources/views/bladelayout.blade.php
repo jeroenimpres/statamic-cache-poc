@@ -20,7 +20,7 @@
     </ul>
 </div>
 <div class="border-gray-400 border-2 mx-auto px-2 bg-pink flex flex-col items-center justify-center">
-    Name of the moment (in a Blade nocache tag)
+    Name of the moment (in a Blade nocache tag):
     @nocache('dynamic._random_name')
 </div>
 <div class="mx-auto px-2 lg:min-h-screen flex flex-col items-center justify-center">
