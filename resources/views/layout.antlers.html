@@ -19,6 +19,12 @@
                 {{ /nav:main }}
             </ul>
         </div>
+        <div class="border-gray-400 border-2 mx-auto px-2 bg-pink flex flex-col items-center justify-center">
+            Name of the moment (in a nocache tag)
+            {{ nocache }}
+                {{ partial:dynamic/random_name}}
+            {{ /nocache }}
+        </div>
         <div class="mx-auto px-2 lg:min-h-screen flex flex-col items-center justify-center">
             {{ yield:content }}
                 {{ template_content }}

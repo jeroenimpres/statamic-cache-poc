@@ -53,13 +53,7 @@ return [
     */
 
     'exclude' => [
-
-        'class' => null,
-
-        'urls' => [
-            //
-        ],
-
+        //'/customviews/*'
     ],
 
     /*
