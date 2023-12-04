@@ -1,0 +1,4 @@
+services:
+  web:
+    ports:
+      - '5134:5134'

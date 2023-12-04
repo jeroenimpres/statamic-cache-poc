@@ -1,0 +1,27 @@
+tree:
+  -
+    id: 48ad5dfa-2b4d-494f-bcfc-0e3af664384d
+    entry: home
+  -
+    id: 8c6ac840-16e5-456e-aa60-334a3a615cc8
+    entry: 9ce17024-2da4-46a3-b910-a6bc9d3373ea
+  -
+    id: 3e04b947-8498-46b0-bdcb-829d3bdc05e3
+    title: CachedAntlers
+    url: /customviews/antlers
+  -
+    id: b174801b-23ea-4e47-a064-cf00a6e876e7
+    title: CachedBlade
+    url: /customviews/blade
+  -
+    id: 45503f1c-11b1-4a7e-a179-b972246e8431
+    title: CachedAllBlade
+    url: /customviews/allblade
+  -
+    id: e5f3da5d-bc4d-499d-940a-a0cad7a5c664
+    title: CacheLessAntlers
+    url: /cachelessviews/antlers
+  -
+    id: 10ee286f-3390-44c5-8c04-be95fc41d79e
+    title: CacheLessBlade
+    url: /cachelessviews/blade
