@@ -7,21 +7,36 @@ tree:
     entry: 9ce17024-2da4-46a3-b910-a6bc9d3373ea
   -
     id: 3e04b947-8498-46b0-bdcb-829d3bdc05e3
-    title: CachedAntlers
+    title: CachedExcludedAntlers
     url: /customviews/antlers
   -
     id: b174801b-23ea-4e47-a064-cf00a6e876e7
-    title: CachedBlade
+    title: CachedExcludedBlade
     url: /customviews/blade
   -
     id: 45503f1c-11b1-4a7e-a179-b972246e8431
-    title: CachedAllBlade
+    title: CachedExcludedAllBlade
     url: /customviews/allblade
   -
+    id: 3e04b947-a064-46b0-bdcb-829d3bdc05e3
+    title: CachedNOTExcludedAntlers
+    url: /notprefixed/antlers
+  -
+    id: b174801b-46b0-8498-a064-cf00a6e876e7
+    title: CachedNOTExcludedBlade
+    url: /notprefixed/blade
+  -
+    id: 45503f1c-4a7e-4a7e-4a7e-b972246e8431
+    title: CachedNOTExcludedAllBlade
+    url: /notprefixed/allblade
+  -
     id: e5f3da5d-bc4d-499d-940a-a0cad7a5c664
-    title: CacheLessAntlers
+    title: CacheMiddlewareLessAntlers
     url: /cachelessviews/antlers
   -
     id: 10ee286f-3390-44c5-8c04-be95fc41d79e
-    title: CacheLessBlade
+    title: CacheMiddlewareLessBlade
     url: /cachelessviews/blade
+  -
+    id: 1af95ed5-77ed-4b04-9506-236d54825fd0
+    entry: a0c97c7d-e25b-45bc-9824-dead1bbef7f5

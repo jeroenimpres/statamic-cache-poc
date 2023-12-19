@@ -53,7 +53,11 @@ return [
     */
 
     'exclude' => [
-        '/customviews/*'
+
+        '/customviews/*',
+        '/mijn-pas/*',
+        '/*form*',
+        '/*contact*'
     ],
 
     /*

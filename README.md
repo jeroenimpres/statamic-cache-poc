@@ -10,7 +10,7 @@ Seems to work as expected when running `ddev artisan optimize:clear` after every
 
 .env:
 ```
-APP_URL="http://statamic-cache-poc.ddev.site"
+APP_URL="https://statamic-cache-poc.ddev.site"
 APP_KEY=base64:Ay3fPS/+6CKYq8erqSmmGXLSCMO5m8qP5vi5/VDGJoo=
 APP_ENV=production
 APP_DEBUG=false
